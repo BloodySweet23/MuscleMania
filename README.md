@@ -1,2 +1,2 @@
 # MuscleMania
-A simple $Fitness Tracker$
+A simple **Fitness Tracker**
