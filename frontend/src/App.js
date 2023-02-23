@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <h1>
-        Hello World!
+        Samsung!
       </h1>
     </div>
   );
